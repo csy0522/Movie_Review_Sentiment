@@ -47,8 +47,9 @@ pip install -r requirements.txt
 
 ## Deployment
 
-Download other dataset from online (Ex: Kaggle) and insert the data to the model in order to test its accuracy.
-* [Kaggle](https://www.kaggle.com/) - The Machine Learning and Data Science Community
+Download other dataset from online (Ex: Kaggle) and insert the data to the model in order to test its accuracy.<br/>
+Other than the Movie_Review_Sentiment Dataset, there are two other datasets available in the **data** directory.
+* [Kaggle](https://www.kaggle.com/) - The Machine Learning and Data Science Community 
 
 ## Built With
 
