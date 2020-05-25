@@ -1,11 +1,6 @@
 # Movie_Review_Test
 
-This project predicts the sentiment of a review using Natural Langauge Procecssing (NLP). The level of sentiment includes: <br/>
-1. Negative
-2. Somewhat_negative
-3. Neutral
-4. Somewhat_Positive
-5. Positive
+This project predicts whether a given tweet is about a real disaster or not using Natural Langauge Procecssing (NLP).
 
 ## Getting Started
 
