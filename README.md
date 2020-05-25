@@ -52,8 +52,7 @@ Download other dataset from online (Ex: Kaggle) and insert the data to the model
 
 ## Built With
 
-* [Python](https://www.python.org/) - The Programming Language
-* [Keras](https://keras.io/) - The Python Deep Learning library
+* [Python3.7](https://www.python.org/) - The Programming Language
 
 ## Author
 
